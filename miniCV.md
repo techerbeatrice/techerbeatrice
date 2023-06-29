@@ -26,7 +26,7 @@ _Gestion dossiers clients et fournisseurs_
 
 _Télétransmission de feuilles de soins sur Noémie_
 
-_Gestion des dossier médicaux sur Osoft_
+_Gestion des dossiers médicaux sur Osoft_
 
 _Transcription de rapports médicaux sur Scribe_
 
