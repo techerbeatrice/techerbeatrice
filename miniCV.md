@@ -22,7 +22,7 @@ _Gestion dossiers clients et fournisseurs_
 
 ### Secrétaire médicale
 
-_Télétansmission de feuilles de soins sur Noémie_
+_Télétransmission de feuilles de soins sur Noémie_
 
 _Gestion des dossier médicaux sur Osoft_
 
