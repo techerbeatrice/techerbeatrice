@@ -2,7 +2,7 @@
 
 ### Béatrice Techer
 
-### _Technicienne Supérieure Système et Réseaux Stagiaire_
+### Technicienne Supérieure Système et Réseaux Stagiaire
 
 ## Formation
 
