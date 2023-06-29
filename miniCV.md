@@ -32,4 +32,6 @@ Transcription de rapports médicaux sur Scribe
 
 - Vélo
 - Lecture
-- Voyage
+- [Voyage]
+
+[Voyage]: <https://www.fr.lastminute.com/sejour/>
