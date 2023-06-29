@@ -1,34 +1,34 @@
-## _Présentation_
+## Présentation
 
 ### Béatrice Techer
 
-### Technicienne Supérieure Système et Réseaux Stagiaire
+### _Technicienne Supérieure Système et Réseaux Stagiaire_
 
-## _Formation_
+## Formation
 
-Certificat Assistante Administrative
+#### Certificat Assistante Administrative Centre AFPA
 
-Certificat Secrétaire Médico-Sociale
-## _Expérience professionnelle_
+#### Certificat Secrétaire Médico-Sociale Ecole Louise Couvé
+## Expérience professionnelle
 
 ### Secrétaire BTP
 
-Utilisation courante du Pack Office
+_Utilisation courante du Pack Office_
 
-Etablissement de bons de livraison, devis et facturation
+_Etablissement de bons de livraison, devis et facturation_
 
-Gestion dossiers clients et fournisseurs
+_Gestion dossiers clients et fournisseurs_
 
 
 ### Secrétaire médicale
 
-Télétansmission de feuilles de soins sur Noémie
+_Télétansmission de feuilles de soins sur Noémie_
 
-Gestion des dossier médicaux sur Osoft
+_Gestion des dossier médicaux sur Osoft_
 
-Transcription de rapports médicaux sur Scribe
+_Transcription de rapports médicaux sur Scribe_
 
-## _Hobbies_
+## Hobbies
 
 - Vélo
 - Lecture
