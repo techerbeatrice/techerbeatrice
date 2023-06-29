@@ -1,3 +1,5 @@
+![image](https://www.bing.com/images/blob?bcid=qOHMiv24nMYF0w)
+
 ## Présentation
 
 ### Béatrice Techer
