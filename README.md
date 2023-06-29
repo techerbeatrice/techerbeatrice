@@ -1,16 +1,17 @@
-## Présentation
+## _Présentation_
 
 ### Béatrice Techer
 
 ### Technicienne Supérieure Système et Réseaux Stagiaire
 
-## Formation
+## _Formation_
 
 Certificat Assistante Administrative
-Certificat Secrétaire Médico-Sociale
-## Expérience professionnelle
 
-## Secrétaire BTP
+Certificat Secrétaire Médico-Sociale
+## _Expérience professionnelle_
+
+### Secrétaire BTP
 
 Utilisation courante du Pack Office
 
@@ -18,17 +19,16 @@ Etablissement de bons de livraison, devis et facturation
 
 Gestion dossiers clients et fournisseurs
 
-Accueil physique et téléphonique
 
-## Secrétaire médicale
+### Secrétaire médicale
 
 Télétansmission de feuilles de soins sur Noémie
 
 Gestion des dossier médicaux sur Osoft
 
-Transcription Numérique de Rapports Médicaux sur Scribe
+Transcription de rapports médicaux sur Scribe
 
-## Hobbies
+## _Hobbies_
 
 - Vélo
 - Lecture
