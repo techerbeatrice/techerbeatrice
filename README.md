@@ -1,6 +1,6 @@
 ## Présentation
 Béatrice TECHER
-Technicienne Supérieure Système et Réseaux stagiaire
+Technicienne Supérieure Système et Réseaux Stagiaire
 ## Formation
 Certificat Assistante Administrative
 Certificat Secrétaire Médico-Sociale
@@ -12,8 +12,9 @@ Gestion dossiers clients et fournisseurs
 Accueil physique et téléphonique
 
 Secrétaire médicale
-Osoft Logiciel de Gestion Dossier du Médical
-Express Scribe Logiciel de Transcription Numérique de Rapports Médicaux
+Télétansmission de feuilles de soins sur Noémie
+Gestion des dossier médicaux sur Osoft
+Transcription Numérique de Rapports Médicaux sur Scribe
 
 ## Hobbies
 - Vélo
