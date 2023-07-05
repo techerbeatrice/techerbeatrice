@@ -34,7 +34,7 @@ _Transcription de rapports médicaux sur Scribe_
 
 - Vélo
 - [Lecture]
-- [Voyage] [Voyage]: <https://www.fr.lastminute.com/sejour/>
+- [Voyage][Voyage]: <https://www.fr.lastminute.com/sejour/>
 
 
 [Lecture]: <https://www.ebooksgratuits.com/>
