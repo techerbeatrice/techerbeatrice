@@ -1,4 +1,4 @@
-![image]([https://www.bing.com/images/blob?bcid=qOHMiv24nMYF0w](https://images.pexels.com/photos/5538015/pexels-photo-5538015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![image](https://images.pexels.com/photos/5538015/pexels-photo-5538015.jpeg)
 
 ## Présentation
 
