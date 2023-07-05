@@ -6,7 +6,7 @@
 
 ### Technicienne Supérieure Système et Réseaux Stagiaire
 
-## Formation
+## Formations
 
 #### Certificat Assistante Administrative Centre AFPA
 
